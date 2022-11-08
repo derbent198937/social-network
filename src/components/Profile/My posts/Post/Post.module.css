@@ -1,0 +1,30 @@
+.post{
+    position: relative;
+    background-color: #fff;
+    margin-bottom: 50px;
+    padding: 15px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+.item {
+
+}
+
+.count {
+    position: absolute;
+    bottom: -25px;
+    right: 20px;
+
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+    background-color: gold;
+    width: 50px;
+    height: 50px;
+    border: 3px midnightblue solid;
+    border-radius: 50%;
+    font-size: 25px;
+
+}

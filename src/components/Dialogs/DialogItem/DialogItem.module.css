@@ -1,0 +1,12 @@
+
+.dialog.active a {
+    text-decoration: none;
+    color: green;
+}
+
+.dialogsItems,
+.messages {
+    padding: 40px;
+    font-size: 24px;
+    line-height: 240%;
+}
